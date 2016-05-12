@@ -4,7 +4,7 @@
     "Francisco Montiel <francisco.montiel@litekey.mx>"
   ],
   "description": "Fullscreen images for ionic framework",
-  "main": "ionic-fullscreen.min.js",
+  "main": "ionic-fullscreen.js",
   "keywords": [
     "fullscreen",
     "images",
