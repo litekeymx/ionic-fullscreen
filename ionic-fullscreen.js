@@ -1,4 +1,4 @@
-angular.module('ionic-fullscreen', [])
+angular.module('ionic-fullscreen', ['ionic'])
 
 .directive('fullscreen', function($ionicModal){
     

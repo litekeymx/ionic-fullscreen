@@ -7,13 +7,13 @@ Library to click in an image and show an ionic modal with zoomable image in full
 Install depency via `bower`
 
 ```bash
-$ bower install https://github.com/litekeymx/ionic-fullscreen --save
+$ bower install https://github.com/litekeymx/ionic-fullscreen.git --save
 ```
 
 Add a `<link>` to your `index.html`:
 
 ```html
-<link href="/bower_components/ionic-fullscreen/ionic-fullscreen.min.css" rel="stylesheet"/>
+<link href="bower_components/ionic-fullscreen/ionic-fullscreen.min.css" rel="stylesheet"/>
 ```
 
 You can use `Sass` too, by adding the `@import' the `scss` file
@@ -25,7 +25,7 @@ You can use `Sass` too, by adding the `@import' the `scss` file
 Add a `<script>` to your `index.html`:
 
 ```html
-<script src="/bower_components/ionic-fullscreen/ionic-fullscreen.min.js"></script>
+<script src="bower_components/ionic-fullscreen/ionic-fullscreen.min.js"></script>
 ```
 
 Then add `ionic-fullscreen` as a dependency for your app:
