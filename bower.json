@@ -13,7 +13,6 @@
   "license": "MIT",
   "homepage": "http://lkmx.io",
   "ignore": [
-    "**/.*",
     "node_modules",
     "bower_components",
     "lib",
