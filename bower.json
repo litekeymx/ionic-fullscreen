@@ -1,0 +1,26 @@
+{
+  "name": "ionic-fullscreen",
+  "authors": [
+    "Francisco Montiel <francisco.montiel@litekey.mx>"
+  ],
+  "description": "Fullscreen images for ionic framework",
+  "main": "ionic-fullscreen.min.js",
+  "keywords": [
+    "fullscreen",
+    "images",
+    "ionic"
+  ],
+  "license": "MIT",
+  "homepage": "http://lkmx.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower"
+  }
+}
